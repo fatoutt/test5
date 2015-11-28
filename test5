@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<header>
+	<meta charset="utf-8" />
+	<title>Mon site</title>
+</header>
+<body>
+	<div align="left">
+		<font color ="black"  size="6" face="Roman" style="background-color:pink;">
+			Je suis un texte
+		</font>
+		<br />
+		<ul>
+			<li><em>je suis</em> un golden cat</li>
+	<h4>Et moi une dE;esse</h4>
+	<p><a href="pages/page2.html"> Vers la page 3</a></p>
+	<p>ceci est<a href="http://vidbull.com/cdlyc9lk6p47.html"></p> un important lien
+	<p align="left">JE SUIS UN MOTHERFUCKER</p><font color="red>"
+		<P><em>JE SUIS UN SECOND MOTHERFUCKER</em></p></font>
+			
+
+</div>
+</body>
+</html>
